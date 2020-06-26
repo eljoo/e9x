@@ -1,3 +1,3 @@
-# e9x
-Project that protect
-9 lyres
+import os
+os.system("clear")
+print ("hellow to our world")
